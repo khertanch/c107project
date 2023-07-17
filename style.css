@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lumanosimo', cursive;
+    background:#c0a09f;
+}
+
+.header_div{
+    background: white;
+    color: red;
+}
+
+.header_div p{
+    font-family: 'Lugrasimo', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(20, 163, 211);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(226, 80, 36);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(rgb(100, 48, 48), rgb(63, 128, 63), rgb(44, 44, 99));
+}
